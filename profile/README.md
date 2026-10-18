@@ -57,7 +57,7 @@ The latest release is [v1.6.2](https://github.com/KafScale/platform/releases/tag
 
 ## Related: KafClaw
 
-[KafClaw](https://github.com/KafClaw) is our sister project: agents for your data streaming. [KafClaw](https://github.com/KafClaw/KafClaw) is a compact agent runtime written in Go. It uses Kafka topics to connect agents into groups and swarms, and works with KafScale as the event transport. The org also hosts [GitClaw](https://github.com/KafClaw/GitClaw), a Gitea fork with agent enrollment. Docs are at [kafclaw.scalytics.io](https://kafclaw.scalytics.io).
+[KafClaw](https://github.com/KafClaw) is our sister project: agents for your data streaming. [KafClaw](https://github.com/KafClaw/KafClaw) is a compact agent runtime written in Go. It uses Kafka topics to connect agents into groups and swarms, and works with KafScale as the event transport. Docs are at [kafclaw.scalytics.io](https://kafclaw.scalytics.io).
 
 More open source from the same team is listed at [scalytics.io/open-source](https://www.scalytics.io/open-source). Why KafScale exists, in the words of its author: [KafScale on novatechflow](https://www.novatechflow.com/p/kafscale.html).
 
